@@ -20,7 +20,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * describe：Retrofit+RxJava网络请求封装
- * author ：王文彬 on 2018/12/28 11：21
+ * author ：mp5a5 on 2018/12/28 11：21
  * email：wwb199055@126.com
  */
 

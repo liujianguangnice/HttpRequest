@@ -1,7 +1,7 @@
 package com.mp5a5.www.library.net.revert;
 
 /**
- * @author ：王文彬 on 2018/11/28 16：30
+ * @author ：mp5a5 on 2018/11/28 16：30
  * @describe：网络返回参数回调
  * @email：wwb199055@126.com
  */
