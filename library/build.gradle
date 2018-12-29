@@ -1,5 +1,8 @@
 apply plugin: 'com.android.library'
 
+apply plugin: 'com.github.dcendents.android-maven'
+group='com.github.Mp5A5' //chendongde310替换成你自己的Github用户名
+
 android {
     compileSdkVersion 28
 
